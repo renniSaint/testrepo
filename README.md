@@ -1,8 +1,8 @@
 # testrepo
 testrepo
 this is a test repo
-line4
-line5
-line6
-line7
-line8
+line4 rennisaint info
+line5 rennisaint info
+line6 rennisaint info
+line7 rennisaint info
+line8 rennisaint info
